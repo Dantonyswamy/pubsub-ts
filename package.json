@@ -1,0 +1,14 @@
+{
+  "name": "pubsub-ts",
+  "version": "1.0.0",
+  "description": "Google cloud pub-sub typescript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Antonyswamy",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^2.15.1"
+  }
+}
